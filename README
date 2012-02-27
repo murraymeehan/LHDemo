@@ -1,0 +1,17 @@
+=========================
+This app is a demo of Kinect data manipulation. 
+
+It is intended to help students and tinkerers who want to start 
+using Kinect-derived data in their favourite way, without having 
+to learn about the whole openframeworks/openNI/openCV situation. 
+
+You will need to setup openframeworks/openNI and have a Kinect. 
+
+The script "setup.sh" should take care of everything except getting a Kinect sensor, as long as you're using Ubuntu 11.04 32-bit Linux, as I am. 
+
+It should all run on macosx/windows, but you will need to setup the stuff setup.sh takes care of on your own.
+
+I hope you like it!
+Murray Meehan
+Feb 24 2012
+=========================
